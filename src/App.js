@@ -6,8 +6,8 @@ import Song from "./components/Song";
 function App() {
   return (
     <div className="App">
-      <Song/>
-      <Player/>
+      <Song />
+      <Player />
     </div>
   );
 }
